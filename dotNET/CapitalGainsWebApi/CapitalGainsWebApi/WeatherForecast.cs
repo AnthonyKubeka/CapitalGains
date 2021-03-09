@@ -1,6 +1,6 @@
 using System;
 
-namespace CapitalGainsWebAPI
+namespace CapitalGainsWebApi
 {
     public class WeatherForecast
     {
