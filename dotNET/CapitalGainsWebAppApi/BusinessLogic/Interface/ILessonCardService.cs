@@ -5,7 +5,7 @@ using Domain.Entities;
 
 namespace BusinessLogic.Interface
 {
-    interface ILessonCardService
+    public interface ILessonCardService
     {
         LessonCardEntity FindById(int id);
     }
