@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Persistence
+namespace BusinessLogic
 {
     public class Class1
     {

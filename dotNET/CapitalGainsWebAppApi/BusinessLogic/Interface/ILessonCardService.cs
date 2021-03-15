@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Domain.Models; 
-namespace Persistence.Interface
-{
-    public interface ILessonCardRepository
-    {
+using Domain.Entities;
 
+namespace BusinessLogic.Interface
+{
+    interface ILessonCardService
+    {
         LessonCardEntity FindById(int id);
     }
 }
